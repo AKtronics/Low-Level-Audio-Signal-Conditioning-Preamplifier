@@ -219,8 +219,9 @@ Planned next steps include:
 
 ```text
 ├── LTspice Schematic
-├── Simulation Results
-├── Waveform Screenshots
-├── Design Notes
+├── Waveform Analysis
+├── AC Analysis
+├── DC sweep Analysis
+├── Noise Analysis
 └── README.md
 ```
