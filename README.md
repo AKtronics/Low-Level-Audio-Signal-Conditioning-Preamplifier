@@ -143,7 +143,7 @@ Passive filtering and controlled gain staging were introduced before major ampli
 
 ---
 
-# Current Performance
+# Present Performance
 
 | Parameter | Value |
 |---|---|
